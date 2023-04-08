@@ -159,7 +159,7 @@ const Review = () => {
               className="w-full p-2 font-semibold text-white bg-gradient-to-r from-teal-400 to-teal-800"
               onClick={randomPerson}
             >
-              Rastgele
+              Rasgele
             </button>
           </div>
         </div>
